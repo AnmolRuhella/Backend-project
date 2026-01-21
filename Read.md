@@ -14,4 +14,5 @@ to resolve we can used proxy in frontend - basically add the proxy url - in the 
 we can also whitelist that URL in the backend 
 
 3rd lectue - Data Modelling (Mongoose)
-
+in this basically I will get to know about how we can create the schema .
+how our data reponse should be like that .
