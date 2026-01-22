@@ -16,3 +16,4 @@ we can also whitelist that URL in the backend
 3rd lectue - Data Modelling (Mongoose)
 in this basically I will get to know about how we can create the schema .
 how our data reponse should be like that .
+I am starting the lecture on 22/01/2026 at 11:47 pm 
