@@ -17,3 +17,20 @@ we can also whitelist that URL in the backend
 in this basically I will get to know about how we can create the schema .
 how our data reponse should be like that .
 I am starting the lecture on 22/01/2026 at 11:47 pm 
+
+// we always create the schema like this in mongoose
+import mongoose from "mongoose"
+
+const userSchema = new mongoose.Schema({})
+
+export const User = mongoose.model("User" , userSchema)
+
+when you defined the schema 
+ username : {
+        type : String,
+        required : true,
+        unique : true ,
+        lowercase : true
+    }
+you can do it like this or by directly assigned string to it .
+
