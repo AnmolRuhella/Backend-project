@@ -34,3 +34,6 @@ when you defined the schema
     }
 you can do it like this or by directly assigned string to it .
 
+4th lecture - Data Modelling continue 
+
+
