@@ -36,6 +36,7 @@ you can do it like this or by directly assigned string to it .
 
 4th lecture - Data Modelling continue - 25/01/2026 
 Hospital management schema and Management projects
+startred the lecture on 27/01/27 
 
 
 
